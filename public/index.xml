@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rheo.cc</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Rheo.cc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jun 2019 14:20:55 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing Rheo Cc</title>
+      <link>http://example.org/introducing-rheo-cc/</link>
+      <pubDate>Mon, 10 Jun 2019 14:20:55 -0400</pubDate>
+      
+      <guid>http://example.org/introducing-rheo-cc/</guid>
+      <description>Welcome Welcome to Rheo.cc! I built this site as something of a staging ground for various concepts I am researching/presenting/talking about/considering. In that respect it&amp;rsquo;s something of a scratch-pad where I can (semi-)anonymously throw (mis-?)information at the Universe and see what happens. I envision it eventually taking the shape of an old-school personal blog, á la Blogger pre-2005, but we&amp;rsquo;ll see.
+About me My name is Jason and I currently work as a Data Scientist and occasional Software Engineer.</description>
+    </item>
+    
+  </channel>
+</rss>
