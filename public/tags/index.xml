@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rheo.CC</title>
+    <title>Tags on Rheo</title>
     <link>https://rheo.cc/tags/</link>
-    <description>Recent content in Tags on Rheo.CC</description>
+    <description>Recent content in Tags on Rheo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
@@ -22,18 +22,18 @@
     </item>
     
     <item>
-      <title>Demo</title>
+      <title>demo</title>
       <link>https://rheo.cc/tags/demo/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rheo.cc/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image</title>
+      <title>image</title>
       <link>https://rheo.cc/tags/image/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://rheo.cc/tags/image/</guid>
       <description></description>

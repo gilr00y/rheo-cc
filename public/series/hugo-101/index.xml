@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo 101 on Rheo.CC</title>
+    <title>Hugo 101 on Rheo</title>
     <link>https://rheo.cc/series/hugo-101/</link>
-    <description>Recent content in Hugo 101 on Rheo.CC</description>
+    <description>Recent content in Hugo 101 on Rheo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
