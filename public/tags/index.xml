@@ -1,14 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Rheo.cc</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Rheo.cc</description>
+    <title>Tags on Rheo.CC</title>
+    <link>https://rheo.cc/tags/</link>
+    <description>Recent content in Tags on Rheo.CC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rheo.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>development</title>
+      <link>https://rheo.cc/tags/development/</link>
+      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://rheo.cc/tags/demo/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://rheo.cc/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>https://rheo.cc/tags/image/</link>
+      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      
+      <guid>https://rheo.cc/tags/image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://rheo.cc/tags/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://rheo.cc/tags/typography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://rheo.cc/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://rheo.cc/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://rheo.cc/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://rheo.cc/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://rheo.cc/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/themes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

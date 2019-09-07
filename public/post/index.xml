@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rheo.CC</title>
-    <link>https://rheo.cc/</link>
-    <description>Recent content on Rheo.CC</description>
+    <title>Posts on Rheo.CC</title>
+    <link>https://rheo.cc/post/</link>
+    <description>Recent content in Posts on Rheo.CC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
-    <lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="https://rheo.cc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rheo.cc/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://rheo.cc/about/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rheo.cc/about/</guid>
-      <description>??</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://rheo.cc/project/hugo/</link>
-      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
-      
-      <guid>https://rheo.cc/project/hugo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The &#34;figure&#34; Shortcode</title>

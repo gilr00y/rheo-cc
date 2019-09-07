@@ -1,6 +1,45 @@
-baseURL = "http://example.org/"
+baseURL = "https://rheo.cc/"
+title = "Rheo"
+theme ="hugo-theme-basic"
 languageCode = "en-us"
-title = "Rheo.cc"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true 
+copyright = "© 2019 <a href='https://rhombe.studio'>Rhombe LLC</a>."
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
+[params]
+  description = "Encounters in Data Science"
+  titleEmoji = ":tada:"
+  # change this!
+  twitter = "RhombeStudio"
 
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "posts"
+  url = "post/"
+
+#[[params.menu]]
+#  name = "post series"
+#  url = "series/"
+  
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+  
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

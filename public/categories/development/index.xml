@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Rheo.CC</title>
-    <link>https://rheo.cc/categories/</link>
-    <description>Recent content in Categories on Rheo.CC</description>
+    <title>Development on Rheo.CC</title>
+    <link>https://rheo.cc/categories/development/</link>
+    <description>Recent content in Development on Rheo.CC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
     <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
     
-	<atom:link href="https://rheo.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rheo.cc/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://rheo.cc/categories/development/</link>
+      <title>Hugo</title>
+      <link>https://rheo.cc/project/hugo/</link>
       <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
       
-      <guid>https://rheo.cc/categories/development/</guid>
+      <guid>https://rheo.cc/project/hugo/</guid>
       <description></description>
     </item>
     

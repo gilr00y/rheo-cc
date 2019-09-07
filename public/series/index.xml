@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Rheo.CC</title>
+    <link>https://rheo.cc/series/</link>
+    <description>Recent content in Series on Rheo.CC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://rheo.cc/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo 101</title>
+      <link>https://rheo.cc/series/hugo-101/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/series/hugo-101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
