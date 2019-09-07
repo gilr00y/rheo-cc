@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://rheo.cc/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://rheo.cc/project/hugo/</link>
-      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
-      
-      <guid>https://rheo.cc/project/hugo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>(Hu)go Template Primer</title>

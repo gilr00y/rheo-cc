@@ -7,22 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2019 &lt;a href=&#39;https://rhombe.studio&#39;&gt;Rhombe LLC&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sun, 10 Feb 2019 16:53:06 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rheo.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>development</title>
-      <link>https://rheo.cc/tags/development/</link>
-      <pubDate>Sun, 10 Feb 2019 16:53:06 -0500</pubDate>
-      
-      <guid>https://rheo.cc/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
+      <title>Demo</title>
       <link>https://rheo.cc/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -45,6 +36,15 @@
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
       <guid>https://rheo.cc/tags/typography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://rheo.cc/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://rheo.cc/tags/development/</guid>
       <description></description>
     </item>
     

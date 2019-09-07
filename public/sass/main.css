@@ -1,2 +1,7 @@
-body {
-  background: green; }
+a {
+  color: darkgoldenrod; }
+  a:hover {
+    color: goldenrod; }
+
+.jg-desc {
+  /*background: green;*/ }
